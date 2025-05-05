@@ -96,15 +96,7 @@ tk.Button(
     fg="white"
 ).pack(pady=10)
 
-# Join Discord button
-tk.Button(
-    root,
-    text="My yt",
-    command=join_discord,
-    width=25,
-    bg="#5865F2",  # Discord's blurple
-    fg="white"
-).pack(pady=5)
+
 
 # Footer
 tk.Label(
