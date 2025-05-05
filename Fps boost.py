@@ -99,7 +99,7 @@ tk.Button(
 # Join Discord button
 tk.Button(
     root,
-    text="Join Discord",
+    text="My yt",
     command=join_discord,
     width=25,
     bg="#5865F2",  # Discord's blurple
